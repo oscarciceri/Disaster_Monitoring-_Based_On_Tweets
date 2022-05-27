@@ -6,3 +6,8 @@ scikit-learn
 folium
 scipy
 jupyter-dash
+plotly
+nltk
+wordcloud
+
+
